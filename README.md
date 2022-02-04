@@ -9,10 +9,10 @@ RZ09-03017E02 Hackintosh (semi-working)
 - Brightness settings - Cannot change brightness at all, no option, even with the BrightnessKeys.kext
 
 ## Summary of Specs (For those who don't wanna Google)
-15.6" LCD 240Hz Display (1920x1080)
-Intel Core i7-9750H
-Intel UHD 630 iGPU
-GeForce RTX 2070 Max-Q (-wegnogpu command used)
+- 15.6" LCD 240Hz Display (1920x1080)
+- Intel Core i7-9750H
+- Intel UHD 630 iGPU
+- GeForce RTX 2070 Max-Q (-wegnogpu command used)
 Everything else doesn't much matter I suppose, I already have the trackpad working, the front facing camera works, battery statistics are shown properly, etc etc.
 
 I hope to have a working, bug free, build soon. Until then, sit tight <3
