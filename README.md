@@ -13,6 +13,7 @@ RZ09-03017E02 Hackintosh (semi-working)
 - Intel Core i7-9750H
 - Intel UHD 630 iGPU
 - GeForce RTX 2070 Max-Q (-wegnogpu command used)
+- Intel AX200 WiFi card (listed as compatible with Airportitlwm.kext as of v2.0)
 Everything else doesn't much matter I suppose, I already have the trackpad working, the front facing camera works, battery statistics are shown properly, etc etc.
 
 I hope to have a working, bug free, build soon. Until then, sit tight <3
