@@ -1,16 +1,22 @@
 {
-    "use_custom_font": false, 
+    "use_custom_font": false,
     "open_recent": [
-        "/Volumes/USB DRIVE/EFI/OC/config.plist", 
-        "/Volumes/EFI/EFI/OC/config.plist", 
-        "\\Volumes\\SYSTEM\\EFI\\OC\\config.plist", 
+        "D:\\EFI\\OC\\config.plist",
+        "\\Volumes\\EFI\\EFI\\OC\\config.plist",
+        "\\Volumes\\SYSTEM\\EFI\\OC\\config.plist",
         "\\Users\\test\\Desktop\\EFI\\OC\\config.plist"
-    ], 
-    "font_size": 13, 
-    "last_window_height": 608, 
-    "max_undo": 200, 
-    "use_custom_font_size": false, 
-    "comment_strip_prefix": "#", 
-    "last_window_width": 983, 
-    "drag_dead_zone": 20
+    ],
+    "invert_background_text_color": false,
+    "alternating_color_1": "#161616",
+    "last_window_height": 728,
+    "comment_strip_prefix": "#",
+    "use_custom_font_size": false,
+    "invert_row2_text_color": false,
+    "alternating_color_2": "#202020",
+    "last_window_width": 1369,
+    "drag_dead_zone": 20,
+    "background_color": "#161616",
+    "invert_row1_text_color": false,
+    "max_undo": 200,
+    "font_size": 9
 }
