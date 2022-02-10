@@ -41,22 +41,26 @@ Remarkably, I managed to get this working with no BIOS flashing. In fact, I woul
 |Software Guard Extensions (SGX)|Disabled|
 |Intel (VMX) Virtualization Technology|Enabled|
 |Hyper-Threading|Enabled|
+
 `Power & Performance -> CPU - Power Management Control`
 | Description | Setting |
 | --- | --- |
 |Intel SpeedStep|Enabled|
 |Turbo Mode|Enabled|
 |Hyper-Threading|Enabled|
+
 `Power & Performance -> CPU - Power Management Control -> CPU Lock Configuration`
 | Description | Setting |
 | --- | --- |
 |CFG Lock|Disabled|
 |Overclocking Lock|Disabled|
+
 `Advanced -> Thunderbolt Configuration`
 | Description | Setting |
 | --- | --- |
 |Discrete Thunderbolt Support|Disabled|
 Probably can get away with it being turned on with `No Security`, but this is what worked for me.
+
 `Trusted Computing`
 | Description | Setting |
 | --- | --- |
@@ -73,10 +77,12 @@ Cannot have Windows 11 with TPM on same machine as Hackintosh.
 | --- | --- |
 |Above 4G MMIO BIOS assignment|Enabled|
 |Enable USB Charge Function|Disabled|
+
 `System Agent (SA) Configuration`
 | Description | Setting |
 | --- | --- |
 |VT-d|Disabled|
+
 `SATA and RST Configuration`
 | Description | Setting |
 | --- | --- |
@@ -200,4 +206,5 @@ There are lots of guide and helpful Git repos to thank for this project. I'll be
 	- [MountEFI](https://github.com/corpnewt/MountEFI)
 	- [ProperTree](https://github.com/corpnewt/ProperTree)
 	- [USBMap](https://github.com/corpnewt/USBMap)
+
 Most of these apps seem to be from [CorpNewt](https://github.com/corpnewt), so thanks for the awesome tools.
